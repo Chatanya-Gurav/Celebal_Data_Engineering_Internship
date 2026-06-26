@@ -4,11 +4,8 @@
             Data Engineering Internship
                   Week 2 Assignment
 
-      Project : SQL-Based Data Analysis
-      Dataset : Sample Superstore
-      Database: week2_assignment
-
-      Name    : Chaitanya Gurav
+            Dataset : Sample Superstore
+            Database: week2_assignment
 
 =============================================================*/
 
