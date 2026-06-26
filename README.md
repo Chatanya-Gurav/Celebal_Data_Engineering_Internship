@@ -27,7 +27,7 @@ Celebal_Data_Engineering_Internship/
 | Week | Assignment | Status |
 |------|------------|--------|
 | Week 1 | Data Exploration and Cleaning using Pandas | ✅ Completed |
-| Week 2 | SQL Basics | ⏳ Upcoming |
+| Week 2 | SQL Basics | ✅ Completed |
 | Week 3 | Subqueries | ⏳ Upcoming |
 | Week 4 | Data Engineering Concepts | ⏳ Upcoming |
 | Week 5 | Data Cleaning | ⏳ Upcoming |
