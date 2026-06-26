@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of this project is to analyze the Sample Superstore dataset using SQL. The project demonstrates fundamental SQL concepts such as data exploration, filtering, sorting, aggregation, grouping, business analysis, and data validation to extract meaningful business insights.
+The objective of this assignment is to analyze the Sample Superstore dataset using SQL. The assignment demonstrates fundamental SQL concepts such as data exploration, filtering, sorting, aggregation, grouping, business analysis, and data validation to extract meaningful business insights.
 
 ---
 
@@ -77,5 +77,5 @@ The objective of this project is to analyze the Sample Superstore dataset using 
 
 ## Conclusion
 
-This project strengthened practical SQL skills by applying database concepts to a real-world sales dataset. It demonstrates the ability to explore, analyze, validate, and extract meaningful insights from business data using SQL.
+This assignment strengthened practical SQL skills by applying database concepts to a real-world sales dataset. It demonstrates the ability to explore, analyze, validate, and extract meaningful insights from business data using SQL.
 
