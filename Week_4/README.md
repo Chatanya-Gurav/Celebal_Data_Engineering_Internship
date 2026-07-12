@@ -99,7 +99,7 @@ Configured source and destination datasets for copying the CSV file.
 
 ### Screenshot
 
-![Pipeline Configuration](09_Pipeline_Connnection.png)
+![Pipeline Configuration](09_Pipeline_Connection.png)
 
 ---
 
@@ -183,7 +183,7 @@ Destination Blob Storage
 
 #### Pipeline Design
 
-![Pipeline](09_Pipeline_Connnection.png)
+![Pipeline](09_Pipeline_Connection.png)
 
 #### Successful Pipeline Execution
 
