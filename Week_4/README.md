@@ -41,11 +41,11 @@ Created a Resource Group in Microsoft Azure to organize all resources used in th
 
 #### Storage Account
 
-![Storage Account](02_Storage_Account.png)
+![Storage Account](02_StorageAccount.png)
 
 #### Blob Container
 
-![Blob Container](03_Blob_Container.png)
+![Blob Container](03_BlobContainer.png)
 
 ---
 
@@ -66,11 +66,11 @@ Completed:
 
 #### Azure Data Factory
 
-![ADF](04_Data_Factory_Creation.png)
+![ADF](04_ADF_Creation.png)
 
 #### Linked Service
 
-![Linked Service](05_Linked_Service.png)
+![Linked Service](05_LinkedService.png)
 
 #### Source Dataset
 
@@ -82,7 +82,7 @@ Completed:
 
 #### Get Metadata Configuration
 
-![Get Metadata](08_Get_Metadata_Settings.png)
+![Get Metadata](08_GetMetadata_Settings.png)
 
 ---
 
@@ -99,7 +99,7 @@ Configured source and destination datasets for copying the CSV file.
 
 ### Screenshot
 
-![Pipeline Configuration](09_Pipeline_Configuration.png)
+![Pipeline Configuration](09_Pipeline_Connnection.png)
 
 ---
 
@@ -113,7 +113,7 @@ The pipeline completed successfully without errors.
 
 ### Screenshot
 
-![Pipeline Success](10_Pipeline_Success.png)
+![Pipeline Success](10_Pipeline_Succeeded.png)
 
 ---
 
@@ -179,15 +179,15 @@ Destination Blob Storage
 
 #### Get Metadata Activity
 
-![Metadata](08_Get_Metadata_Settings.png)
+![Metadata](08_GetMetadata_Settings.png)
 
 #### Pipeline Design
 
-![Pipeline](09_Pipeline_Configuration.png)
+![Pipeline](09_Pipeline_Connnection.png)
 
 #### Successful Pipeline Execution
 
-![Pipeline Success](10_Pipeline_Success.png)
+![Pipeline Success](10_Pipeline_Succeeded.png)
 
 ---
 
