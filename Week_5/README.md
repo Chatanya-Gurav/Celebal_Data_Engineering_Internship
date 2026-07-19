@@ -53,7 +53,6 @@ The objective of this assignment is to learn the fundamentals of Apache Spark an
 ```
 Week_5/
 │── README.md
-│── Week5_Assignment.ipynb
 │── Week5_Chaitanya_Gurav.docx
 ```
 
