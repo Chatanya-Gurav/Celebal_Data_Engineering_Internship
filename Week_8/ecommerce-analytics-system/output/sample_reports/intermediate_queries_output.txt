@@ -1,0 +1,213 @@
+E-COMMERCE ANALYTICS REPORT
+SQL FILE: intermediate_queries.sql
+================================================================================
+
+REPORT 1
+--------------------------------------------------------------------------------
+customer_id | customer_name
+--------------------------------------------------------------------------------
+CUST0005 | Gabrielle Davis
+CUST0008 | Dr. Sharon James
+CUST0010 | Joel Nelson
+CUST0016 | Tricia Valencia
+CUST0017 | Patricia Peterson
+CUST0022 | Kim Martinez
+CUST0023 | Lisa Brandt
+CUST0025 | Crystal Robinson
+CUST0027 | Timothy Duncan
+CUST0028 | Brent Jordan
+CUST0029 | Victoria Garcia
+CUST0033 | Carmen Smith
+CUST0034 | Michael Cross
+CUST0041 | Sherry Wood
+CUST0042 | Victoria Valdez
+CUST0046 | Michael Hoffman
+CUST0050 | Rita Keith
+CUST0053 | Matthew Ross
+CUST0059 | Erika Terry
+CUST0060 | Stephanie Gilbert
+CUST0061 | Richard Lawson
+CUST0062 | Steven Flynn
+CUST0063 | Lisa Davis
+CUST0065 | Michael Snyder
+CUST0066 | Colleen Brock
+CUST0067 | Robert Contreras
+CUST0068 | Jessica Meadows
+CUST0076 | Rebecca Ramsey
+CUST0078 | David Murphy
+CUST0079 | Trevor Fisher
+CUST0083 | Alexander Collins
+CUST0096 | Tiffany Vaughn
+CUST0119 | Anna Gay
+CUST0124 | Kimberly Gibson
+CUST0130 | Stacy Freeman
+CUST0131 | Yolanda Francis
+CUST0139 | Melissa Garner
+CUST0143 | Casey Anderson
+CUST0145 | Brenda Levy
+CUST0150 | David Medina
+CUST0154 | Samantha Davis
+CUST0157 | Brianna Anderson
+CUST0162 | Katherine Browning
+CUST0163 | Donald Schultz
+CUST0164 | Larry Garcia
+CUST0170 | John Boone
+CUST0176 | Lawrence Perry
+CUST0178 | Eric Clark
+CUST0180 | Mary Gomez
+CUST0181 | Thomas Atkins
+CUST0185 | Jordan Bullock
+CUST0188 | Jeremy Turner
+CUST0189 | Jesse Brown
+CUST0192 | Mrs. Maria Williams
+CUST0194 | Rachel Holland
+CUST0196 | Emily Douglas
+CUST0206 | Phillip Nelson
+CUST0209 | Raven Taylor
+CUST0210 | Luis Bullock
+CUST0211 | Lisa Henderson
+CUST0215 | Rachel Romero
+CUST0219 | Chad Baldwin
+CUST0220 | Stacey Stewart
+CUST0224 | Samantha Gardner
+CUST0235 | Michelle Ho
+CUST0238 | Patricia Morrow
+CUST0239 | Michael Cooper
+CUST0244 | Travis Wise
+CUST0247 | Mr. Lawrence Edwards
+CUST0248 | Kayla Rodriguez
+CUST0249 | Anthony Dougherty
+CUST0256 | Gina Mcmillan
+CUST0257 | Andrew Reeves
+CUST0260 | Veronica Silva
+CUST0261 | Paula Lane
+CUST0262 | Patricia James
+CUST0268 | Justin Michael
+CUST0272 | David Garcia
+CUST0274 | Matthew Velez
+CUST0278 | Todd Rosales MD
+CUST0279 | David Lopez
+CUST0281 | Cathy Taylor
+CUST0283 | Melissa Brown
+CUST0285 | Tyler Mendoza
+CUST0287 | Angela Griffin
+CUST0288 | Stephanie Harris
+CUST0293 | Jason Mack
+CUST0294 | Susan Bennett
+CUST0296 | Kimberly Patel
+CUST0297 | Shaun Cannon
+CUST0299 | Michele Williams
+CUST0302 | Antonio Fry
+CUST0303 | Gregory Schneider
+CUST0305 | Brianna Ford
+CUST0308 | Chelsea Gill
+CUST0316 | Christopher Norton Jr.
+CUST0318 | Ryan Hall
+CUST0319 | Mark Peck
+CUST0322 | Manuel King
+CUST0324 | Shannon Malone
+CUST0326 | Shannon Davis
+CUST0328 | Amanda Mcfarland
+CUST0330 | Jasmine Mosley
+CUST0332 | Jennifer Ayala
+CUST0333 | Henry Pugh MD
+CUST0342 | Erin Cook
+CUST0344 | Douglas Hartman
+CUST0345 | Catherine Saunders MD
+CUST0352 | Kathryn Cooper
+CUST0354 | Brent Bowen
+CUST0358 | Jeffrey Smith
+CUST0362 | Leslie Powers
+CUST0366 | Tracey Wagner
+CUST0367 | Jill Jackson
+CUST0370 | Jeffery Fitzgerald
+CUST0372 | Heather Page
+CUST0373 | Renee Hudson
+CUST0374 | Kenneth Farley
+CUST0378 | Jackie Clements
+CUST0383 | Isaac Miller
+CUST0387 | Edwin Reyes
+CUST0389 | Tamara Jensen
+CUST0393 | Jonathan Wheeler
+CUST0395 | Austin Baker
+CUST0397 | Kimberly Hernandez
+CUST0402 | Patricia Johnson
+CUST0407 | Courtney Wright
+CUST0409 | John Campbell
+CUST0411 | Dr. Morgan Payne PhD
+CUST0412 | Makayla Steele
+CUST0414 | Valerie Thomas
+CUST0418 | Dillon Jones
+CUST0419 | Christopher Owens
+CUST0420 | John Phelps
+CUST0421 | Amanda Huff
+CUST0428 | Daniel Lopez
+CUST0431 | Rachael Howard DDS
+CUST0434 | Joseph Moody
+CUST0439 | Carlos Love
+CUST0440 | Patricia Mathis
+CUST0443 | Michael Anderson
+CUST0446 | Mrs. Stacey Davis
+CUST0449 | Rachel Lane
+CUST0453 | Colton Terry
+CUST0460 | Sara Cardenas
+CUST0463 | Carol Lewis
+CUST0466 | Kelly Barnes
+CUST0469 | Christopher Powell
+CUST0470 | Patrick Mccall
+CUST0471 | Shannon Cohen
+CUST0476 | Madison Martinez
+CUST0482 | Jorge Bates
+CUST0484 | Stephanie Evans
+CUST0487 | Micheal Parks
+CUST0492 | Steve Mason
+CUST0499 | James Chapman
+CUST0503 | Martin Wise
+CUST0507 | Autumn Wilson
+CUST0510 | Maureen Hernandez
+CUST0514 | Anna Briggs
+CUST0517 | Meghan White
+CUST0523 | Erica Rivera
+CUST0525 | Jillian Wilson
+CUST0528 | Sarah Rivera
+CUST0532 | Richard Love
+CUST0535 | Mr. Thomas Thompson
+CUST0537 | Pamela Hill
+CUST0541 | Paige Hart
+CUST0544 | Melissa Phillips
+CUST0551 | Frank Williams
+CUST0556 | Robert Wilson
+CUST0558 | Jose Vaughan
+CUST0568 | Andrew Armstrong
+CUST0569 | Patrick Swanson
+CUST0571 | Tara Gamble
+CUST0576 | Brandy Quinn
+CUST0577 | Mr. Matthew Miller
+CUST0579 | Kevin Sullivan
+CUST0580 | Kimberly Valdez
+CUST0588 | Heather Parrish
+CUST0596 | Kayla Jackson
+CUST0598 | Chase Davis
+
+Rows returned: 182
+
+REPORT 2
+--------------------------------------------------------------------------------
+product_id | product_name | purchased_quantity | returned_quantity
+--------------------------------------------------------------------------------
+PROD0086 | Smartphone 95 | 0 | 4
+PROD0460 | Pillow 9 | 2 | 4
+
+Rows returned: 2
+
+REPORT 3
+--------------------------------------------------------------------------------
+category | returned_items | total_items | return_rate_percent
+--------------------------------------------------------------------------------
+Home | 75 | 2477 | 3.03
+Electronics | 79 | 2876 | 2.75
+Clothing | 60 | 2805 | 2.14
+Books | 58 | 2779 | 2.09
+
+Rows returned: 4
+

@@ -1,0 +1,11 @@
+E-COMMERCE DATA QUALITY ISSUES REPORT
+==================================================
+
+1. Customers: 8 invalid emails found.
+2. Invalid customer IDs: CUST0062, CUST0080, CUST0103, CUST0290, CUST0297, CUST0456, CUST0536, CUST0542
+3. Order Items: 10 records reference non-existent order IDs.
+4. Invalid order IDs: INVALID_ORDER_250, INVALID_ORDER_500, INVALID_ORDER_750, INVALID_ORDER_1000, INVALID_ORDER_1250, INVALID_ORDER_1500, INVALID_ORDER_1750, INVALID_ORDER_2000, INVALID_ORDER_2250, INVALID_ORDER_2500
+5. Products: 80 product names normalized (spaces/capitalization).
+6. Orders: 69 missing customer_id values found.
+7. Order Items: 94 negative quantity values found (returns).
+8. Order Items: 10 invalid order references removed from cleaned data.
