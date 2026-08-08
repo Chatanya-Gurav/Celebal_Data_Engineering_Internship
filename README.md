@@ -33,7 +33,7 @@ Celebal_Data_Engineering_Internship/
 | Week 5 | Data Cleaning | ✅ Completed |
 | Week 6 | Spark Intro | ✅ Completed |
 | Week 7 | Databricks | ✅ Completed |
-| Week 8 | planning | ⏳ Upcoming |
+| Week 8 | planning | ✅ Completed  |
 
 
 ----------------------------------------------------------------------------------------
