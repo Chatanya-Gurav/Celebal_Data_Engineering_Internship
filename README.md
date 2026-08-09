@@ -1,6 +1,8 @@
-# Celebal_Data_Engineering_Internship
+# Celebal Data Engineering Internship
 
-This repository contains all weekly assignments completed during the Celebal Technologies Data Engineering Internship.
+This repository contains the weekly assignments and projects completed during my **Celebal Technologies Data Engineering Internship**.
+
+The repository demonstrates practical experience with **Python, Pandas, SQL, Apache Spark, Databricks, Delta Lake, data cleaning, data transformation, and data engineering concepts**.
 
 ---
 
@@ -8,6 +10,16 @@ This repository contains all weekly assignments completed during the Celebal Tec
 
 ```text
 Celebal_Data_Engineering_Internship/
+│
+├── Smart-Patient-Readmission-Risk-Pipeline/
+│   ├── analytics/
+│   ├── bronze/
+│   ├── gold/
+│   ├── silver/
+│   ├── transformations/
+│   ├── utils/
+│   ├── config.py
+│   └── README.md
 │
 ├── Week_1/
 ├── Week_2/
@@ -17,9 +29,8 @@ Celebal_Data_Engineering_Internship/
 ├── Week_6/
 ├── Week_7/
 ├── Week_8/
-└── README.md
-```
-
+├── README.md
+└── Sample - Superstore.csv
 ---
 
 ## Assignment Index
